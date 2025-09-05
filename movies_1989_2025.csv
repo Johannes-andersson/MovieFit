@@ -1,0 +1,101 @@
+title,year,genres,runtime_min,my_rating
+Home Alone,1990,comedy,108,5
+Mrs. Doubtfire,1993,comedy,120,2
+Groundhog Day,1993,comedy,99,4
+Dumb and Dumber,1994,comedy,104,5
+Ace Ventura: Pet Detective,1994,comedy,91,5
+Happy Gilmore,1996,comedy,88,5
+The Big Lebowski,1998,comedy,118,1
+There's Something About Mary,1998,comedy,114,4
+American Pie,1999,comedy,93,3
+Meet the Parents,2000,comedy,111,5
+Superbad,2007,comedy,108,5
+The Hangover,2009,comedy,98,5
+Bridesmaids,2011,comedy,126,2
+21 Jump Street,2012,comedy,111,4
+The Grand Budapest Hotel,2014,comedy,99,1
+Deadpool,2016,comedy,105,4
+Game Night,2018,comedy,100,3
+Jojo Rabbit,2019,comedy,105,1
+Palm Springs,2020,comedy,90,1
+Free Guy,2021,comedy,111,4
+Barb and Star Go to Vista Del Mar,2021,comedy,103,3
+The Lost City,2022,comedy,112,5
+Dungeons & Dragons: Honor Among Thieves,2023,comedy,133,1
+No Hard Feelings,2023,comedy,105,5
+Hit Man,2024,comedy,111,4
+The Blair Witch Project,1999,horror,77,3
+The Ring,2002,horror,114,4
+28 Days Later,2002,horror,113,2
+Saw,2004,horror,101,5
+The Descent,2005,horror,94,2
+Paranormal Activity,2007,horror,85,4
+REC,2007,horror,76,1
+Let the Right One In,2008,horror,115,1
+Insidious,2010,horror,105,3
+The Conjuring,2013,horror,109,4
+It Follows,2014,horror,100,2
+The Babadook,2014,horror,99,4
+Hereditary,2018,horror,132,1
+A Quiet Place,2018,horror,94,2
+Midsommar,2019,horror,151,1
+The Invisible Man,2020,horror,121,4
+Host,2020,horror,75,3
+The Black Phone,2021,horror,108,5
+Barbarian,2022,horror,100,1
+Smile,2022,horror,110,2
+Nope,2022,horror,125,3
+Scream VI,2023,horror,124,3
+Talk to Me,2023,horror,91,2
+Evil Dead Rise,2023,horror,100,3
+Longlegs,2024,horror,99,4
+Se7en,1995,thriller,128,2
+The Usual Suspects,1995,thriller,103,3
+L.A. Confidential,1997,thriller,135,2
+The Game,1997,thriller,132,5
+Memento,2000,thriller,112,5
+Mulholland Drive,2001,thriller,148,5
+Oldboy,2003,thriller,121,3
+Zodiac,2007,thriller,155,2
+No Country for Old Men,2007,thriller,125,4
+Shutter Island,2010,thriller,134,2
+Black Swan,2010,thriller,104,2
+Drive,2011,thriller,105,2
+The Girl with the Dragon Tattoo,2011,thriller,163,3
+Prisoners,2013,thriller,157,1
+Nightcrawler,2014,thriller,119,4
+Gone Girl,2014,thriller,153,4
+Sicario,2015,thriller,124,3
+Parasite,2019,thriller,135,4
+Uncut Gems,2019,thriller,140,1
+Tenet,2020,thriller,155,5
+The Night House,2020,thriller,109,3
+The Menu,2022,thriller,103,3
+Emily the Criminal,2022,thriller,98,2
+The Killer,2023,thriller,120,1
+Leave the World Behind,2023,thriller,140,5
+Terminator 2: Judgment Day,1991,action,134,5
+Speed,1994,action,112,3
+Die Hard with a Vengeance,1995,action,133,5
+The Matrix,1999,action,140,4
+Gladiator,2000,action,152,1
+Casino Royale,2006,action,141,3
+The Bourne Ultimatum,2007,action,118,4
+The Dark Knight,2008,action,156,5
+Inception,2010,action,150,1
+The Raid: Redemption,2011,action,97,3
+Skyfall,2012,action,142,2
+Edge of Tomorrow,2014,action,108,2
+John Wick,2014,action,105,4
+Mad Max: Fury Road,2015,action,116,4
+Baby Driver,2017,action,109,5
+John Wick: Chapter 2,2017,action,119,2
+Mission: Impossible – Fallout,2018,action,152,1
+Extraction,2020,action,120,2
+Tenet,2020,action,149,5
+Top Gun: Maverick,2022,action,134,4
+The Gray Man,2022,action,126,5
+The Equalizer 3,2023,action,107,3
+Dune: Part Two,2024,action,167,1
+Deadpool & Wolverine,2024,action,129,5
+Civil War,2024,action,111,1
